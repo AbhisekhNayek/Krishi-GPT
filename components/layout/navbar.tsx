@@ -33,7 +33,7 @@ export function Navbar() {
 
   const unauthenticatedLinks = [
     { href: "/", label: "Home", icon: Leaf },
-    { href: "/#features", label: "Features", icon: BarChart3 },
+    { href: "/features", label: "Features", icon: BarChart3 },
     { href: "/guidelines", label: "Guidelines", icon: BookOpen },
   ]
 
