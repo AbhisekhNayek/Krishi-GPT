@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="public/placeholder-logo.png" alt="Krishi GPT Logo" width="120" />
   
   # 🌾 <span style="color:#27ae60">Krishi GPT</span>
   
@@ -17,7 +16,7 @@
 
 1️⃣ **Clone the repository:**
 ```bash
-git clone <repo-url>
+git clone https://github.com/AbhisekhNayek/Krishi-GPT
 ```
 
 2️⃣ **Install dependencies:**
